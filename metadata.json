@@ -1,0 +1,5 @@
+{
+  "name": "Seinfeld: An Interactive Episode",
+  "description": "A text-based 'choose your adventure' game where you play as Jerry, George, Elaine, or Kramer in an interconnected, neurotic adventure.",
+  "requestFramePermissions": []
+}
